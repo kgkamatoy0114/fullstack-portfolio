@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0ff1c5f6-7956-436a-8446-e33e1d2df81a",
+    "name": "kristal kamatoy",
+    "email": "kgkamatoy0114@gmail.com",
+    "message": "about this app. how are you working?",
+    "createdAt": "2026-06-14T01:31:33.404Z"
+  },
+  {
+    "id": "7439486f-c5e5-4535-92ed-02c82f75d5f5",
+    "name": "test",
+    "email": "test@gmail.com",
+    "message": "this is just a test",
+    "createdAt": "2026-06-14T01:30:12.700Z"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Property Booking System",
+    "role": "Full Stack",
+    "status": "Production",
+    "category": "Full Stack",
+    "year": "2026",
+    "impact": "Automated booking extensions, invoice generation, and API-backed room operations.",
+    "description": "Full booking platform with stay extensions, invoice generation, and real-time API integration.",
+    "stack": ["React", "TypeScript", "Node.js", "API"],
+    "images": ["/img/icr1.png", "/img/icr2.png"]
+  },
+  {
+    "title": "Simple CRUD Form",
+    "role": "Frontend",
+    "status": "Live",
+    "category": "Frontend",
+    "year": "2025",
+    "impact": "Created a clean workflow for managing records with fast create, edit, and delete actions.",
+    "description": "Simple CRUD form with create, read, update, and delete functionality.",
+    "stack": ["Vue", "Vuetify", "API"],
+    "images": ["/img/img1.png"]
+  }
+]
