@@ -43,8 +43,8 @@ portfolio-nextjs/
 │   ├── projects.json             ← editable project data
 │   └── contact-submissions.json  ← auto-created on first submission
 └── public/
-    ├── img/                      ← copy your images here
-    └── KRISTAL_KAMATOY.pdf       ← copy your CV here
+    ├── img/                     
+    └── KRISTAL_KAMATOY.pdf      
 ```
 
 ## Setup
